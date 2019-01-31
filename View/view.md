@@ -54,7 +54,15 @@ urlpatterns = [
    * fbv /urls.py 파일을 생성합니다.
 
 ### 1-2) HttpResponse
+   - fbv/urls.py에 아래 코드를 입력합니다.
+~~~
+from django.urls import path
+from . import views
 
+urlpatterns = [
+    path('http-response/', views.get_http_response),
+]
+~~~ 
   
 
 ### 2) Render
