@@ -3,7 +3,7 @@
 <br/>  
 
   ### 목차
-  1) social-auth-app-django 설치
+  1) social - auth-app-Django 설치
   2) setting.py 설정
   3) 웹 어플리케이션 urls.py 추가(login, logout)
   4) view 함수 만들기
@@ -12,7 +12,7 @@
 
 ### 1)Social -auth - app - django Setup
 
-  ocial-auth-app-django 설치하기
+  social-auth-app-django 설치하기
 
  ~~~
  pip install social-auth-app-Django
@@ -108,14 +108,14 @@ def test(request):
 ~~~
 
 
-###6) developers.facebook에서 local address 추가
+### 6) developers.facebook에서 local address 추가
 
 Facebook 앱에 들어가서 유효한 리디렉션에 로컬주소 입력  
 
 ![social_login](./img/social_login.png)
 
-> [!NOTE]
-> developers.facebook 앱 설정하는 방법
+> developers.facebook 앱 설정방법
+>   
 ><https://m.blog.naver.com/PostView.nhn?blogId=chan2rrj&logNo=220958859734&proxyReferer=https%3A%2F%2Fwww.google.com%2F>
 
 <br/>  
