@@ -120,7 +120,7 @@ Facebook 앱에 들어가서 유효한 리디렉션에 로컬주소 입력
 
 <br/>  
 
-로그인을 하면 제가 유저 모델을 굳이 만들지 않아도 자동으로 Django의 기본 auth_user table에 사용자 정보가 저장됩니다.
+로그인을 하면 유저 모델을 굳이 만들지 않아도 자동으로 Django의 기본 auth_user table에 사용자 정보가 저장됩니다.
 
 ![social_login](./img/social_login2.png)
 
