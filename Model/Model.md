@@ -2,7 +2,7 @@
 
 <br/>
 
-###ORM 서비스란??
+### ORM 서비스란??
 
 ORM(Object-relational mapping)을 단순하게 표현하면 객체와 관계와의 설정이라 할 수 있다. ORM에서 말하는 객체(Object)의 의미는 우리가 흔히 알고 있는 OOP(Object_Oriented Programming)의 그 객체를 의미한다는 것을 쉽게 유추할 수 있을 것이다. 그렇다면 과연 관계라는 것이 의미하는 것은 무엇일까? 지극히 기초적인 이야기지만 개발자가 흔히 사용하고 있는 관계형 데이터베이스를 의미한다.
 
@@ -13,7 +13,7 @@ META CLASS 란??
 ![template1](./img/noname04.png)
 
 
-###모델 정의하는 과정
+### 모델 정의하는 과정
 
 ![template1](./img/noname01.png)
 
