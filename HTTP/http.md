@@ -67,6 +67,8 @@
    * Content Encoding : 압축방식
 
 
+
+
 ## 4) 마무리
   
   ### (1) Web browser Request
